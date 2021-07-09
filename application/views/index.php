@@ -34,8 +34,8 @@
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-12">&nbsp;</div>
-    <div class="col-sm-6">
-      <h2>Journal Advisory Team</h2>
+    <div class="col-sm-12">
+      <h2>Advisory Team</h2>
       <p><b>Patron: </b>Dr Ashok Negi, Principal, LSMGPGC, Pithoragarh, Uttarakhand.</p>
       <p>
          <ul class="list-group">
@@ -50,8 +50,21 @@
         </ul>
       </p>
     </div>
+    <div class="col-sm-12">&nbsp;</div>
+    <div class="col-sm-12">
+      <h2>Editorial Team</h2>
+      <p>&nbsp;</p>
+      <p>
+         <ul class="list-group">
+          <li class="list-group-item">No publication charges</li>
+          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
+          <li class="list-group-item">API Score: 10 points</li>
+        </ul>
+      </p>
+    </div>
+    <div class="col-sm-12">&nbsp;</div>
     <div class="col-sm-6">
-      <h2>Jornal Editorial Team</h2>
+      <h2>Panel of Reviewers</h2>
       <p>&nbsp;</p>
       <p>
          <ul class="list-group">
