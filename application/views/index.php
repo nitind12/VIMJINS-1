@@ -53,7 +53,6 @@
     <div class="col-sm-12">&nbsp;</div>
     <div class="col-sm-12">
       <h2>Editorial Team</h2>
-      <p>&nbsp;</p>
       <p>
          <ul class="list-group">
           <li class="list-group-item">No publication charges</li>
@@ -65,7 +64,6 @@
     <div class="col-sm-12">&nbsp;</div>
     <div class="col-sm-6">
       <h2>Panel of Reviewers</h2>
-      <p>&nbsp;</p>
       <p>
          <ul class="list-group">
           <li class="list-group-item">No publication charges</li>
