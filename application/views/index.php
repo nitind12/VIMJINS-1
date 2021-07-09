@@ -35,6 +35,34 @@
     </div>
     <div class="col-sm-12">&nbsp;</div>
     <div class="col-sm-6">
+      <h2>Journal Advisory Team</h2>
+      <p><b>Patron: </b>Dr Ashok Negi, Principal, LSMGPGC, Pithoragarh, Uttarakhand.</p>
+      <p>
+         <ul class="list-group">
+          <li class="list-group-item"><b>Advisory Board/ Consultant Editors</b></li>
+          <li class="list-group-item">Dr Shekhar Chandra Joshi, Ex-HOD, Fine Arts, Kumaun University, Almora, UA</li>
+          <li class="list-group-item">Dr Chandra Datt Suntha, Principal, Government Degree College, Berinag, UA</li>
+          <li class="list-group-item">Dr Amit Joshi, Director, IPSDR, Kumaun University , Nainital, UA</li>
+          <li class="list-group-item">Dr Ashutosh Priya, Head, Economics, MJP Rohilkhand University, Bareilly, UP</li>
+          <li class="list-group-item">Dr Subho Chhattopadhyay, Associate Professor & HOD, Management, Invertis University, Bareilly, UP</li>
+          <li class="list-group-item">Mr Pawan Mehra, Deputy General Manager, Uttarakhand Road Transport Corporation, UA</li>
+          <li class="list-group-item">Mr Dhruv Kamal Joshi, Manager, Bharat Electronics Limited, Ghaziabad, NCR-Delhi</li>
+        </ul>
+      </p>
+    </div>
+    <div class="col-sm-6">
+      <h2>Jornal Editorial Team</h2>
+      <p>&nbsp;</p>
+      <p>
+         <ul class="list-group">
+          <li class="list-group-item">No publication charges</li>
+          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
+          <li class="list-group-item">API Score: 10 points</li>
+        </ul>
+      </p>
+    </div>
+    <div class="col-sm-12">&nbsp;</div>
+    <div class="col-sm-12">
       <h2>Scope of Journal</h2>
       <p>VIMJINS invites contributions for its forthcoming inaugural issue in the following domains-</p>
       <p>
@@ -50,34 +78,6 @@
           <li>Environmental Science</li>
           <li>Rural Studies, Public Administration & Education</li>
           <li>Other allied Social Sciences</li>
-        </ul>
-      </p>
-    </div>
-    <div class="col-sm-6">
-      <h2>Journal Team</h2>
-      <p><b>Patron: </b>Dr Ashok Negi, Principal, LSMGPGC, Pithoragarh, Uttarakhand.</p>
-      <p>
-         <ul class="list-group">
-          <li class="list-group-item"><b>Advisory Board/ Consultant Editors</b></li>
-          <li class="list-group-item">Dr Shekhar Chandra Joshi, Ex-HOD, Fine Arts, Kumaun University, Almora, UA</li>
-          <li class="list-group-item">Dr Chandra Datt Suntha, Principal, Government Degree College, Berinag, UA</li>
-          <li class="list-group-item">Dr Amit Joshi, Director, IPSDR, Kumaun University , Nainital, UA</li>
-          <li class="list-group-item">Dr Ashutosh Priya, Head, Economics, MJP Rohilkhand University, Bareilly, UP</li>
-          <li class="list-group-item">Dr Subho Chhattopadhyay, Associate Professor & HOD, Management, Invertis University, Bareilly, UP</li>
-          <li class="list-group-item">Mr Pawan Mehra, Deputy General Manager, Uttarakhand Road Transport Corporation, UA</li>
-          <li class="list-group-item">Mr Dhruv Kamal Joshi, Manager, Bharat Electronics Limited, Ghaziabad, NCR-Delhi</li>
-        </ul>
-      </p>
-    </div>
-    <div class="col-sm-12">&nbsp;</div>
-    <div class="col-sm-12">
-      <h2>Jornal Team</h2>
-      <p>
-         <ul class="list-group">
-          <li class="list-group-item">Patron - Dr Ashok Negi, LSM Govt PG College, Pithoragarh, Uttarakhand</li>
-          <li class="list-group-item">No publication charges</li>
-          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
-          <li class="list-group-item">API Score: 10 points</li>
         </ul>
       </p>
     </div>
