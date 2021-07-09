@@ -2,7 +2,7 @@
 
 <div class="jumbotron" style="margin-bottom:0">
   <h1>Vimarshodgam Journal of Interdisciplinary Studies (VIMJINS)</h1>
-  <p>(National, Annual, Bilingual, Interdisciplinary, Peer-Reviewed, Open Access, Online Journal)</p> 
+  <p>(National, Annual, Bilingual, Interdisciplinary, Peer-Reviewed, Open Access, Online Journal)</p>
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -20,9 +20,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
-      </li>    
+      </li>
     </ul>
-  </div>  
+  </div>
 </nav>
 
 <div class="container" style="margin-top:30px">
@@ -50,7 +50,7 @@
           <li>Environmental Science</li>
           <li>Rural Studies, Public Administration & Education</li>
           <li>Other allied Social Sciences</li>
-        </ul> 
+        </ul>
       </p>
     </div>
     <div class="col-sm-6">
@@ -66,10 +66,23 @@
           <li class="list-group-item">Dr Subho Chhattopadhyay, Associate Professor & HOD, Management, Invertis University, Bareilly, UP</li>
           <li class="list-group-item">Mr Pawan Mehra, Deputy General Manager, Uttarakhand Road Transport Corporation, UA</li>
           <li class="list-group-item">Mr Dhruv Kamal Joshi, Manager, Bharat Electronics Limited, Ghaziabad, NCR-Delhi</li>
-        </ul> 
+        </ul>
       </p>
     </div>
     <div class="col-sm-12">&nbsp;</div>
+    <div class="col-sm-12">
+      <h2>Jornal Team</h2>
+      <p>
+         <ul class="list-group">
+          <li class="list-group-item">Patron - Dr Ashok Negi, LSM Govt PG College, Pithoragarh, Uttarakhand</li>
+          <li class="list-group-item">No publication charges</li>
+          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
+          <li class="list-group-item">API Score: 10 points</li>
+        </ul>
+      </p>
+    </div>
+    <div class="col-sm-12">&nbsp;</div>
+
     <div class="col-sm-12">
       <h2>Why publish with VIMJINS?</h2>
       <p>
@@ -78,22 +91,24 @@
           <li class="list-group-item">No publication charges</li>
           <li class="list-group-item">Bilingual (हिंदी/ English)</li>
           <li class="list-group-item">API Score: 10 points</li>
-        </ul> 
+        </ul>
       </p>
     </div>
     <div class="col-sm-12">&nbsp;</div>
+
+
     <div class="col-sm-12">
       <h2>Categories of submission</h2>
       <p>
          <ul class="list-group">
-          <li class="list-group-item">Fast Publication</li>
-          <li class="list-group-item">Research Articles</li>
-          <li class="list-group-item">Extended Abstracts (brief overview of research work- theory, objectives, methodology, results, discussion/conclusion and references)</li>
-          <li class="list-group-item">Case Studies (describing ethical dilemma faced by managers and/or application of theories to real-world problems)</li>
-          <li class="list-group-item">Perspectives (Commentary on any recent event of interest)</li>
-          <li class="list-group-item">Book Reviews (of recently published books)</li>
-          <li class="list-group-item">Conversations (Interviews with acclaimed academicians, practitioners or industry- professionals)</li>
-        </ul> 
+          <li class="list-group-item"><b>1. Research Articles :</b> Original, unpublished research papers in management and allied areas consistent with the scope of the journal are considered for this section. Authors need to keep the data-set used for such articles safe as they may be asked to share the same by the editor. </li>
+          <li class="list-group-item"><b>2.	Extended Abstracts :</b> Extended Abstracts with brief mention of related theory, objectives, methodology, results, discussion/conclusion and references are accepted in this section to provide a forum for young researchers to showcase their doctoral research.</li>
+          <li class="list-group-item"><b>3.	Case Studies :</b> Cases describing ethical dilemma faced by managers and/or application of theories in management and allied areas to real-world problems are included in this section. Cases should be written in third person and should also provide relevant data. Case study should be accompanied by supplementary material (assignment questions for discussion in the class along with plausible answers, theories/models/frameworks used for analysis of questions and supporting materials to enhance student-learning)   </li>
+          <li class="list-group-item"><b>4.	Perspectives :</b> Commentary on any recent event of interest in management or allied fields are published in this section. </li>
+          <li class="list-group-item"><b>5. Book Reviews :</b> Reviews of recently published books in management and allied fields are also considered for publication in the journal. </li>
+          <li class="list-group-item"><b>6.	Conversations :</b> Interviews with acclaimed academicians and industry-professional in management and allied fields   highlighting their scholarly contributions or/and recent advances in the discipline are considered for this section. </li>
+        </ul>
+        <p style="text-align:right"><i> The Editorial Board reserves the right to place an article in a specific section, as deemed fit. </i></p>
       </p>
     </div>
     <div class="col-sm-12">&nbsp;</div>
@@ -128,9 +143,9 @@
          <li>Editorial Board’s decision shall be communicated within 5 weeks from the article submission deadline.
           <li>Submission Deadline: 30th June, 2021
           <li>Authors may address their queries to vimjins@gmail.com
-        </ol> 
+        </ol>
       </p>
-    </div>  
+    </div>
     <div class="card col-sm-12" style="background: #FFF3F2; color: #900000;">
       <div class="card-body">
         <h5>About Department of Business Administration, LSMGPGC, Pithoragarh</h5>
