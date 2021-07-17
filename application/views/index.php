@@ -13,13 +13,13 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Call For Articles</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Journal Issues</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Contact Us</a>
       </li>
     </ul>
   </div>
@@ -55,20 +55,27 @@
       <h2>Editorial Team</h2>
       <p>
          <ul class="list-group">
-          <li class="list-group-item">No publication charges</li>
-          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
-          <li class="list-group-item">API Score: 10 points</li>
+          <li class="list-group-item">Dr  Garima Jaiswal  Chandra,  Assistant Professor, Business Administration,  LSM Government PG College,  Pithoragarh, Uttarakhand  (Chief Editor)</li>
+          <li class="list-group-item">Dr  Arti   Sharma,  Assistant Professor,  Business Administration,  LSM Government PG College,  Pithoragarh, Uttarakhand  (Managing Editor)</li>
+          <li class="list-group-item">Ms   Gunjan   Mathur,  Assistant Professor, Computer Applications,  LSM Government PG College,  Pithoragarh, Uttarakhand  (Managing Editor)</li>
         </ul>
       </p>
     </div>
     <div class="col-sm-12">&nbsp;</div>
-    <div class="col-sm-6">
+    <div class="col-sm-12">
       <h2>Panel of Reviewers</h2>
       <p>
          <ul class="list-group">
-          <li class="list-group-item">No publication charges</li>
-          <li class="list-group-item">Bilingual (हिंदी/ English)</li>
-          <li class="list-group-item">API Score: 10 points</li>
+          <li class="list-group-item">Dr  Amithy   Jasrotia,  Assistant Professor,  Sociology,  Rajasthan University,  Jaipur, Rajasthan </li>
+          <li class="list-group-item">Dr  Ashish   Bisht, Assistant Professor, Management, Bhimtal Campus, Kumaun University, Nainital,  Uttarakhand</li>
+          <li class="list-group-item">Dr  Gaurav   Pant, Assistant Professor, Management, Amrapali Institute, Haldwani, Uttarakhand </li>
+          <li class="list-group-item">Mr  Gaurav   Joshi, Assistant Professor, Business Administration, LSM Government PG College, Pithoragarh, Uttarakhand </li>
+          <li class="list-group-item">Mr  Udit  Kumar Pandey, Assistant Professor, Management, Graphic Era University, Haldwani, Uttarakhand </li>
+          <li class="list-group-item">Mr  Vivek   Gupta, Assistant Professor, Management, Lal Bahadur Shastri Institute of Management, Bareilly, UP </li>
+          <li class="list-group-item">Ms Shobha Pandey, Assistant Professor, Business Administration, LSM Government PG College, Pithoragarh, Uttarakhand </li>
+          <li class="list-group-item">Mr  Dinesh   Rawat, Assistant Professor, Business Administration, LSM Government PG College, Pithoragarh, Uttarakhand </li>
+          <li class="list-group-item">Ms  Ruchita   Pangriya, Assistant Professor, Business Administration, LSM Government PG College, Pithoragarh, Uttarakhand </li>
+          <li class="list-group-item">Ms  Bhawana   Mehra , Research Scholar , Management, Kumaun University , Nainital, Uttarakhand </li>
         </ul>
       </p>
     </div>
@@ -98,7 +105,7 @@
       <h2>Why publish with VIMJINS?</h2>
       <p>
          <ul class="list-group">
-          <li class="list-group-item">Fast Publication</li>
+          <li class="list-group-item">Journal Description: National, interdisciplinary, open access, online </li>
           <li class="list-group-item">No publication charges</li>
           <li class="list-group-item">Bilingual (हिंदी/ English)</li>
           <li class="list-group-item">API Score: 10 points</li>
@@ -142,7 +149,7 @@
           <li>Formatting: Manuscript formatting should be done as per the following-
             <ul>
               <li>A4 Size, Single column, Margin of 1-inch (2.54 cm) on all sides </li>
-              <li>Font: d`fr  nso  (14) or Times New Roman (12)</li>
+              <li>Font: Kruti Dev, Font Size: 14 (Hindi) or Times New Roman (12)</li>
               <li>Justified Alignment, 1.5 Line Spacing, Space between paragraphs</li>
               <li>Title, Sub-titles, sub-sub-titles etc. in Bold</li>
               <li>with first letter of each word Capitalized.</li>
